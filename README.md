@@ -45,7 +45,7 @@ mark-ai-voice-assistant/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/mark-ai-voice-assistant.git
+git clone https://github.com/surajkeshri95/mark-ai-voice-assistant.git
 cd mark-ai-voice-assistant
 2. Install the Required Libraries
 Make sure Python is installed, then run:
